@@ -51,5 +51,10 @@ To build a career as a Data Analyst by applying analytical thinking, technical s
 - **GitHub:** [github.com/burhank5253](https://github.com/burhank5253)
 
 ---
+## 🤝 Connect With Me
 
+- **LinkedIn:** [Burhanuddin Khamerawala](https://www.linkedin.com/in/burhanuddin-khamerawala-7546aa340/)
+- **GitHub:** [burhank5253](https://github.com/burhank5253)
+
+I'm open to opportunities in Data Analytics, Business Intelligence, and AI-related projects.
 ⭐ Thank you for visiting my portfolio!
